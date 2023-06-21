@@ -11,7 +11,6 @@ This repository contains code for performing land use scene classification using
 - [Results](#results)
 - [Credits](#credits)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Features
 
@@ -134,6 +133,3 @@ The dataset used for land use scene classification is obtained from __https://ww
 
   Contributions are welcome! If you find any issues or have suggestions for improvement, please submit a pull request or open an issue.
 
-## Contact
-
-  If you have any questions or inquiries, please feel free to contact [Shreedhar Purohit] at [shreedhar2.purohit@gmail.com].
